@@ -1,0 +1,29 @@
+it made it easy to see the changes in the file
+scanning was much faster
+Reduced the chances of scanning irrelevant content
+Reduced the search time for the content
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+it makes it easy to track changes and bugs in code.This makes it easy to track system changes 
+and track the change of an application over time
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+pros
+more logical commits are made
+easier to track the commit and make sense of it
+
+cons
+chance of forgetting to make proper commits
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log-lists all the commits and the history of a file from whicch we can obtain the ids of the commits
+git diff first_id second_id lists the differences and changes made to the two ids
+
+How might using version control make you more confident to make changes that could break something?
+its easier to track the exact position where the break occurred.This allows you to retrace the steps and easily find what was broken
+
+Now that you have your workspace set up, what do you want to try using Git for?
+ tracking the code changes for my projects.
