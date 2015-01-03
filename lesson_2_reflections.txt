@@ -11,3 +11,7 @@ only add the file as you get ready to make the change
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 when making two versions of an application eg tablet and phone version
 when making two versions of an application for different target deivice that uses the same base code
+
+How do the diagrams help you visualize the branch structure?
+
+they list the changes in history and show how they are added into the structure
