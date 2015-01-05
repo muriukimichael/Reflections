@@ -15,3 +15,7 @@ when making two versions of an application for different target deivice that use
 How do the diagrams help you visualize the branch structure?
 
 they list the changes in history and show how they are added into the structure
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The code from the two branches gets added to the final file and the commits are represented the log/commit history
+Representing it in the diagram allows us to visualize the commits and the changes to the files
