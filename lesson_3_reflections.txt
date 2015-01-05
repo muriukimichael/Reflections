@@ -7,3 +7,13 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Having git handle pull and push automatically may lead to additions that are not yet complete.Choosing manually when to do so
 allows me to control the changes and therefore makes them more logical as I do the pull/push
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks-these are clones that only exist on github
+clones-these are local copies of a github repository
+branches-these are alternate paths in the commit workflow in github from the master
+
+usage
+forks-when making changes to code that's not mine
+clone-when working on code from a github repository locally
+branches-when testing an experimental feature as i write code
