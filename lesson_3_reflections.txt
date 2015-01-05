@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 when working on a project in a team that has many contributors.This would make it easy to collaborate on the
 project
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Having git handle pull and push automatically may lead to additions that are not yet complete.Choosing manually when to do so
+allows me to control the changes and therefore makes them more logical as I do the pull/push
