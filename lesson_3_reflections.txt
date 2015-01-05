@@ -21,3 +21,8 @@ branches-when testing an experimental feature as i write code
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 -its makes it possible to know when the commits have progressed even without internet connection.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+sending the whole code mannually using mail or using dropbox to share the code files
+Github makes it very easy to track the changes and collaborate effectively
+Sending the files individually is a lot harder and cumbersome especially as the size grows
