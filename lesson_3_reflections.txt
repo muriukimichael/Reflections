@@ -26,3 +26,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 sending the whole code mannually using mail or using dropbox to share the code files
 Github makes it very easy to track the changes and collaborate effectively
 Sending the files individually is a lot harder and cumbersome especially as the size grows
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when testung a new experimental feature that could damage the master.The benefit is that having a different brtanch to test the 
+feature protects the main code files from breaking as the new feature is active.
